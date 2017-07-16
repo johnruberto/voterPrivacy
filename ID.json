@@ -1,0 +1,21 @@
+{
+    "state" : "Idaho",
+    "votes" : [
+        {
+            "voterId" : 1,
+            "voterSSN" : 1234,
+            "voterDOB" : "01/02/1994"
+        },
+        {
+            "voterId" : 2,
+            "voterSSN" : 1444,
+            "voterDOB" : "01/02/1999"
+        },
+        {
+            "voterId" : 3,
+            "voterSSN" : 4331,
+            "voterDOB" : "01/02/1955"
+        }
+]
+    
+}
