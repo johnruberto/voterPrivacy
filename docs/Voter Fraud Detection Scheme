@@ -1,0 +1,15 @@
+Our nation has been built on principles, such as “consent of the governed” – leading to free and fair elections and “freedom from unreasonable search” – which leads to personal privacy.  The right of us Americans to vote is paramount, and we use a secret ballot to choose our leaders.
+
+Recently, a clash between these principles has arisen. Allegations of voter fraud have come up in recent elections, well, allegations of voter fraud probably happen with every election, but it’s been a persistent issue. The federal government recently asked for data from the states about the voter’s and their votes.  Most states are not going to comply, citing voter privacy.
+
+When there is a clash of principles, we should first see if we could find a solution that meets both principles. If that doesn’t work, we should prioritize the principles and decide which one is more important, then apply the greater principle.
+
+I believe that we can protect both principles in this case, free and fair elections and protect voter privacy, by using technology and a simple process.
+
+First, the voter data is kept at all times by the states. The states do not need to provide the detailed records to the federal government. Instead, states will transform their data into a tokenized form – and only provide the tokenized data to the federal government.
+
+This is how most password systems work – the password is not stored in a database, but the password is tokenized and only that encrypted form is stored. To check passwords, the same encryption method is used and compared to the encrypted version. So, the same type of process is used here – voting records are encrypted and compared.
+
+If there is a match, meaning that the same person voted in multiple states, then the governments involved (the federal and each of the states involved) can investigate the matter further.
+
+I created a prototype and published to github.
